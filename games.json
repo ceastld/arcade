@@ -25,5 +25,14 @@
     "url": "https://ceastld.github.io/neon-snake/",
     "hue": 188,
     "tag": "经典"
+  },
+  {
+    "id": "lian-xing",
+    "title": "连星",
+    "subtitle": "GOBAN",
+    "blurb": "十五路五子棋。我先或机先，跟它下一盘。",
+    "url": "https://ceastld.github.io/lian-xing/",
+    "hue": 268,
+    "tag": "对弈"
   }
 ]
