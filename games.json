@@ -1,0 +1,29 @@
+[
+  {
+    "id": "orbit-lab",
+    "title": "ORBIT LAB",
+    "subtitle": "把光扔进重力里",
+    "blurb": "把光球扔进重力井，按住蓄力，空格放一圈。",
+    "url": "https://ceastld.github.io/orbit-lab/",
+    "hue": 312,
+    "tag": "玩具"
+  },
+  {
+    "id": "star-devour",
+    "title": "噬星纪",
+    "subtitle": "STAR DEVOUR",
+    "blurb": "吃小的长大，躲大的。从陨石一路吃到黑洞。",
+    "url": "https://ceastld.github.io/star-devour/",
+    "hue": 28,
+    "tag": "进化"
+  },
+  {
+    "id": "neon-snake",
+    "title": "霓蛇",
+    "subtitle": "NEON SERPENT",
+    "blurb": "在黑暗里吞光。金光加分，撞自己就灭。",
+    "url": "https://ceastld.github.io/neon-snake/",
+    "hue": 188,
+    "tag": "经典"
+  }
+]
