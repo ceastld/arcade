@@ -34,5 +34,14 @@
     "url": "https://ceastld.github.io/lian-xing/",
     "hue": 268,
     "tag": "对弈"
+  },
+  {
+    "id": "playbox",
+    "title": "百戏",
+    "subtitle": "PLAYBOX",
+    "blurb": "五十个小房间。一个仓库，按目录增量上线。",
+    "url": "https://ceastld.github.io/playbox/",
+    "hue": 280,
+    "tag": "合集"
   }
 ]
